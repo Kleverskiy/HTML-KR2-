@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "title": "АК-47 Неоновая революция",
+    "vendor_code": "111",
+    "description": "Скин на автомат из игры CS2, редкость: тайное",
+    "price": 500,
+    "img": "ak47.png"
+  },
+  {
+    "id": "2",
+    "title": "M4A1 Вой",
+    "vendor_code": "222",
+    "description": "Скин на автомат M4A1, редкость: контрабандное",
+    "price": 8000,
+    "img": "howl.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Ключ от кейса",
+    "vendor_code": "333",
+    "description": "Ключ от внутриигрового кейса",
+    "price": 300,
+    "img": "key.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Глок-17 Дух воды",
+    "vendor_code": "444e",
+    "description": "Скин на пистолет из CS2, редкость: засекреченное",
+    "price": 250,
+    "img": "glock.png"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Нож Керамбит Мраморный градиент",
+    "vendor_code": "4445e",
+    "description": "Скин на нож Керамбит из CS2, редкость: тайное",
+    "price": 50000,
+    "img": "kerambit.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Штык-нож Кровавая паутина",
+    "vendor_code": "4446e",
+    "description": "Скин на Штык-нож из CS2, редкость: тайное",
+    "price": 30000,
+    "img": "knife.png"
+  },
+  {
+    "id": "7",
+    "title": "Ключ от контейнера МанКо",
+    "vendor_code": "4447e",
+    "description": "Ключ от контейнера с внутриигровыми предметами из игры TF2",
+    "price": 300,
+    "img": "manko.jpg"
+  },
+  {
+    "id": "8",
+    "title": "AWP Гадюка",
+    "vendor_code": "4448e",
+    "description": "Скин на AWP из CS2, редкость: запрещённое",
+    "price": 500,
+    "img": "awp.png"
+  }
+]
