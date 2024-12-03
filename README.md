@@ -1,2 +1,2 @@
 Сайт:
-https://kleverskiy.github.io/HTML-kr1/
+https://kleverskiy.github.io/HTML-KR2-/
